@@ -79,9 +79,18 @@ The following table presents the average evaluation metrics (F1 score and EM) fo
 
 Below are results of models training process.
 <p align="center">
+  <figure style="display: inline-block; margin: 10px;">
   <img src="model/files/charts/train/bert-base-uncased.png" alt="BERT" width="250" />
+    <figcaption>BERT-base-uncased</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 10px;">
   <img src="model/files/charts/train/roberta-base.png" alt="RoBERTa" width="250" />
+    <figcaption>RoBERTa-base</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 10px;">
   <img src="model/files/charts/train/t5-base.png" alt="T5" width="250" />
+    <figcaption>T5-base</figcaption>
+  </figure>
 </p>
 
 ## License
