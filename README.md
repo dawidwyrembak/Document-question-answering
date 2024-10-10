@@ -1,5 +1,5 @@
 # Document-question-answering
-A repository of source codes prepared for master thesis
+A repository of source codes prepared for master thesis.
 
 ## Overview
 This project focuses on Document Question Answering, leveraging state-of-the-art transformer models such as **BERT-base-uncased**, **RoBERTa**, and **T5-base**. 
@@ -77,6 +77,12 @@ The following table presents the average evaluation metrics (F1 score and EM) fo
 | **RoBERTa-base**      |  94.42   |  93.49   |
 | **T5-base**           |  89.43   |  77.91   |
 
+Below are results of models training process.
+<p align="center">
+  <img src="model/files/charts/train/bert-base-uncased.png" alt="BERT" width="200" />
+  <img src="model/files/charts/train/roberta-base.png" alt="RoBERTa" width="200" />
+  <img src="model/files/charts/train/t5-base.png" alt="T5" width="200" />
+</p>
 
 ## License
 This project was created for a master thesis.
